@@ -1,0 +1,85 @@
+{
+    "name": "Progressive Web App Alias",
+    "short_name": "PWA Alias",
+    "start_url": "/index.html",
+    "scope": ".",
+    "display": "standalone",
+    "background_color": "#fff",
+    "theme_color": "#3F51B5",
+    "description": "Corso Introduttivo allo sviluppo di PWA",
+    "dir": "ltr",
+    "lang": "en-US",
+    "orientation":"portrait-primary",
+    "icons": [
+        {
+            "src":"/src/images/icons/android-icon-36x36.png",
+            "type": "image/png",
+            "sizes": "36x36"
+        },
+        {
+            "src":"/src/images/icons/android-icon-48x48.png",
+            "type": "image/png",
+            "sizes": "48x48"
+        },
+        {
+            "src":"/src/images/icons/android-icon-72x72.png",
+            "type": "image/png",
+            "sizes": "72x72"
+        },
+        {
+            "src":"/src/images/icons/android-icon-96x96.png",
+            "type": "image/png",
+            "sizes": "96x96"
+        },
+        {
+            "src":"/src/images/icons/android-icon-192x192.png",
+            "type": "image/png",
+            "sizes": "192x192"
+        },
+        {
+            "src":"/src/images/icons/apple-icon-57x57.png",
+            "type": "image/png",
+            "sizes": "57x57"
+        },
+        {
+            "src":"/src/images/icons/apple-icon-60x60.png",
+            "type": "image/png",
+            "sizes": "60x60"
+        },
+        {
+            "src":"/src/images/icons/apple-icon-72x72.png",
+            "type": "image/png",
+            "sizes": "72x72"
+        },
+        {
+            "src":"/src/images/icons/apple-icon-76x76.png",
+            "type": "image/png",
+            "sizes": "76x76"
+        },
+        {
+            "src":"/src/images/icons/apple-icon-114x114.png",
+            "type": "image/png",
+            "sizes": "114x114"
+        },
+        {
+            "src":"/src/images/icons/apple-icon-120x120.png",
+            "type": "image/png",
+            "sizes": "120x120"
+        },
+        {
+            "src":"/src/images/icons/apple-icon-144x144.png",
+            "type": "image/png",
+            "sizes": "144x144"
+        },
+        {
+            "src":"/src/images/icons/apple-icon-152x152.png",
+            "type": "image/png",
+            "sizes": "152x152"
+        },
+        {
+            "src":"/src/images/icons/apple-icon-180x180.png",
+            "type": "image/png",
+            "sizes": "180x180"
+        }
+    ]
+}
